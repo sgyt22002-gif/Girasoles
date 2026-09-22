@@ -137,9 +137,8 @@
 <body>
 
     <!-- Audio de Fondo -->
-    <!-- Reemplaza "musica.mp3" con el nombre exacto de tu archivo en GitHub -->
     <audio id="musicaFondo" loop>
-        <source src="musica.mp3" type="audio/mpeg">
+        <source src="https://raw.githubusercontent.com/sgyt22002-gif/Girasoles/9676c423c90ae9537fd256f53b15d68e9db02f48/desenfocao'.m4a" type="audio/mp4">
     </audio>
 
     <!-- Pantalla Inicial -->
@@ -215,4 +214,3 @@ Bueno mi princesa aquí está el detalle de tu olvidadizo jsjs, y pues si no fue
     </script>
 </body>
 </html>
-
